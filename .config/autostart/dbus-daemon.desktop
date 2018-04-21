@@ -1,0 +1,8 @@
+[Desktop Entry]
+Terminal=false
+Type=Application
+X-GNOME-Autostart-enabled=true
+StartupNotify=false
+Name=dbus-daemon
+GenericName=dbus-daemon
+Exec=/var/lib/kodi/.local/share/accounts/services/dbus-daemon
